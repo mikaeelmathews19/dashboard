@@ -44,3 +44,7 @@ This Streamlit dashboard app was created for data analysis and visualization pur
 ---
 
 **Note:** Ensure that the necessary Excel files are available and correctly specified in the code for the app to function properly.
+
+![2024-03-22 14 06 16 localhost 79e88a6e9ab9](https://github.com/mikaeelmathews19/dashboard/assets/111295554/4bca0e51-7bcc-45d4-9102-c8044746d45e)
+
+
